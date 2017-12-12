@@ -16,7 +16,6 @@ import (
 
 func main() {
 
-        /* SOCKET HANDLER (TEMP) */
         server, err := socketio.NewServer(nil)
         if err != nil {
                 log.Fatal(err)
