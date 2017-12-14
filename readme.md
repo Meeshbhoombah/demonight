@@ -7,5 +7,5 @@ to showcase the technology we had developed thus far.
 - [ ] Opt-in location tracking
 
 # Demo
-<img src="/docs/src/openhouse.gif" style="width: 200px; height: auto;">
+![Openhouse iOS Demo](/docs/src/openhouse.gif | width=100)
 
