@@ -7,5 +7,5 @@ to showcase the technology we had developed thus far.
 - [ ] Opt-in location tracking
 
 # Demo
-<img src="/docs/src/openhouse.gif" width="100px">
+<img src="/docs/src/openhouse.gif" width="300px">
 
