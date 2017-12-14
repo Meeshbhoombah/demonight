@@ -5,3 +5,7 @@ to showcase the technology we had developed thus far.
 ## Features
 - [ ] Geofences
 - [ ] Opt-in location tracking
+
+# Demo
+![Openhouse iOS Demo](/docs/src/openhouse.gif)
+
